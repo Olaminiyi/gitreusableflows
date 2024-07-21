@@ -10,7 +10,7 @@ terraform {
 		organization = "Olami"
 
 		workspaces {
-			name = "microservices_project"
+			name = "AWS_BACKED"
 		}
 	}
 }
@@ -18,3 +18,4 @@ terraform {
 provider "aws" {
 	region = "us-east-1"
 }
+##
