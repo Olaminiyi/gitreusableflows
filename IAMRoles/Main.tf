@@ -10,7 +10,7 @@ terraform {
 		organization = "Olami"
 
 		workspaces {
-			name = "microservices_project"
+			name = "AWS_BACKED"
 		}
 	}
 }
